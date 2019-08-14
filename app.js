@@ -20,3 +20,7 @@ for (let index = 0; index < array.length; index++) {
 if (condition) {
     
 }
+else
+{
+    console.log('just checking');
+}
